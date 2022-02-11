@@ -48,7 +48,9 @@ We have transparent bank accounts with the local bank [Fio banka](https://www.fi
 ```
 XXXXXXXXXX/2010 (Fio banka)
 ```
-[List of transactions (CZK account)](https://ib.fio.cz/ib/transparent?a=)
+
+- [QR Payment (QR Platba)](https://qr-platba.cz/pro-vyvojare/generator/?accountNumber= XXXXXXXXXX&bankCode=2100&message=Dar%20UTXO%20Foundation%20z.s.)
+- [List of transactions (CZK account)](https://ib.fio.cz/ib/transparent?a=)
 
 ### EUR Account
 
@@ -58,7 +60,7 @@ We prefer [SEPA](https://en.wikipedia.org/wiki/Single_Euro_Payments_Area) transf
 IBAN: CZXXXXXXXXXXXXXXXXXXXXXX
 BIC/SWIFT: FIOBCZPP (Fio banka a.s.)
 ```
-[List of transactions (EUR account)](https://ib.fio.cz/ib/transparent?a=)
+- [List of transactions (EUR account)](https://ib.fio.cz/ib/transparent?a=)
 
 ## Legal Info
 

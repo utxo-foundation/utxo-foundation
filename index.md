@@ -1,6 +1,6 @@
 ## UTXO Foundation, z.s.
 
-We are a **non-profit** and **independent** association ("spolek" in Czech) officially registered under Czech Republic law.
+We are a **non-profit** and **independent** association ("spolek" in Czech) [officially registered](#legal-info) under Czech Republic law.
 
 Our target is to spread awareness about open and decentralised technologies and connect people with similar interests.
 

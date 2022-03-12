@@ -13,6 +13,7 @@ Our target is to spread awareness about open and decentralised technologies and 
   - [Ethereum](#ethereum)
   - [Polygon](#polygon)
   - [Arbitrum](#arbitrum)
+  - [Gnosis Chain (xDai)](#gnosis-chain)
 - [Bank Accounts](#bank-accounts)
   - [CZK Account - local transfers](#czk-account---local-transfers)
   - [EUR Account](#eur-account)
@@ -39,7 +40,7 @@ TODO
 ### Arbitrum
 TODO
 
-### Gnosis Chain
+### Gnosis Chain (xDai)
 - Address: `0x49A6D3e146f4C032f97B65A2c5E05B1196d69026`
 - [Gnosis Safe](https://gnosis-safe.io/app/gno:0x49A6D3e146f4C032f97B65A2c5E05B1196d69026/), [Blockscout](https://blockscout.com/xdai/mainnet/address/0x49A6D3e146f4C032f97B65A2c5E05B1196d69026/transactions)
 

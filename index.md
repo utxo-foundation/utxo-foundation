@@ -41,8 +41,11 @@ TODO
 TODO
 
 ### Gnosis Chain (xDai)
-- Address: `0x49A6D3e146f4C032f97B65A2c5E05B1196d69026`
-- [Gnosis Safe](https://gnosis-safe.io/app/gno:0x49A6D3e146f4C032f97B65A2c5E05B1196d69026/), [Blockscout](https://blockscout.com/xdai/mainnet/address/0x49A6D3e146f4C032f97B65A2c5E05B1196d69026/transactions)
+```
+0x49A6D3e146f4C032f97B65A2c5E05B1196d69026
+```
+- [Gnosis Safe](https://gnosis-safe.io/app/gno:0x49A6D3e146f4C032f97B65A2c5E05B1196d69026/)
+- [Blockscout](https://blockscout.com/xdai/mainnet/address/0x49A6D3e146f4C032f97B65A2c5E05B1196d69026/transactions)
 
 ## Bank Accounts
 

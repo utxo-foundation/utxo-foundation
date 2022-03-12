@@ -13,7 +13,7 @@ Our target is to spread awareness about open and decentralised technologies and 
   - [Ethereum](#ethereum)
   - [Polygon](#polygon)
   - [Arbitrum](#arbitrum)
-  - [Gnosis Chain (xDai)](#gnosis-chain)
+  - [Gnosis Chain (xDai)](#gnosis-chain-xdai)
 - [Bank Accounts](#bank-accounts)
   - [CZK Account - local transfers](#czk-account---local-transfers)
   - [EUR Account](#eur-account)

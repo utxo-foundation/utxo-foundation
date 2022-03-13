@@ -35,10 +35,18 @@ Address for **Ethereum mainnet only**. Please do not send funds to this address 
 TODO
 
 ### Polygon
-TODO
+```
+0xAe274b72cb0649216c5E12992D4Ecd71524Bd733
+```
+- [Gnosis Safe](https://gnosis-safe.io/app/matic:0xAe274b72cb0649216c5E12992D4Ecd71524Bd733/)
+- [Polygonscan](https://polygonscan.com/address/0xAe274b72cb0649216c5E12992D4Ecd71524Bd733)
 
 ### Arbitrum
-TODO
+```
+0xF0245EF60BF0F2Ac9377521D72AaDfAEB423f9ac
+```
+- [Gnosis Safe](https://gnosis-safe.io/app/arb1:0xF0245EF60BF0F2Ac9377521D72AaDfAEB423f9ac/)
+- [Arbiscan](https://arbiscan.io/address/0xF0245EF60BF0F2Ac9377521D72AaDfAEB423f9ac)
 
 ### Gnosis Chain (xDai)
 ```

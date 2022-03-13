@@ -31,6 +31,11 @@ TODO
 
 ### Ethereum
 Address for **Ethereum mainnet only**. Please do not send funds to this address on other networks.
+```
+0x2f40E505A3Eb96EaDb94041EaC90CAe3662CEf86
+```
+- [Gnosis Safe](https://gnosis-safe.io/app/eth:0x2f40E505A3Eb96EaDb94041EaC90CAe3662CEf86/)
+- [Etherscan](https://etherscan.io/address/0x2f40E505A3Eb96EaDb94041EaC90CAe3662CEf86)
 
 TODO
 

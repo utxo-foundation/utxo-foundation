@@ -37,8 +37,6 @@ Address for **Ethereum mainnet only**. Please do not send funds to this address 
 - [Gnosis Safe](https://gnosis-safe.io/app/eth:0x2f40E505A3Eb96EaDb94041EaC90CAe3662CEf86/)
 - [Etherscan](https://etherscan.io/address/0x2f40E505A3Eb96EaDb94041EaC90CAe3662CEf86)
 
-TODO
-
 ### Polygon
 ```
 0xAe274b72cb0649216c5E12992D4Ecd71524Bd733

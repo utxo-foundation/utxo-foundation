@@ -85,7 +85,7 @@ BIC/SWIFT: FIOBCZPP (Fio banka a.s.)
 
 - Identification (IČO): [`14320070`](https://www.rzp.cz/cgi-bin/aps_cacheWEB.sh?VSS_SERV=ZVWSBJFND&OKRES=&CASTOBCE=&OBEC=&ULICE=&CDOM=&COR=&COZ=&ICO=14320070&OBCHJM=&OBCHJMATD=0&ROLES=P&JMENO=&PRIJMENI=&NAROZENI=&ROLE=&VYPIS=1&type=&PODLE=subjekt&Action=Search&PRESVYBER=1)
 - Associations registry (Spolkový rejstřík): [`L 76005`](https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=1152052&typ=PLATNY) vedená u Městského soudu v Praze
-- Data box (Datová schránka): `XXXXXX`
+- Data box (Datová schránka): `i63qmxw`
 
 ## Address
 

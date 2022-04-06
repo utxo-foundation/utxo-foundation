@@ -8,7 +8,7 @@ Our target is to spread awareness about open and decentralised technologies and 
 - [UTXO conference](https://utxo.cz)
 
 ## Information
-- [Multisig Accounts](#multisig-accounts)
+- [Blockchain Accounts](#blockchain-accounts)
   - [Bitcoin](#bitcoin)
   - [Ethereum](#ethereum)
   - [Polygon](#polygon)
@@ -23,11 +23,15 @@ Our target is to spread awareness about open and decentralised technologies and 
 
 ---
 
-## Multisig Accounts
+## Blockchain accounts
 
 ### Bitcoin
+```
+bc1qpwsnzaulf2u08lsvmm8m4r2jggmvwm0zzh6urt
+```
 
-TODO
+#### Lightning Network
+You can donate money by sending it to: `donate@btcpay.utxo.cz` ([Lightning Address](https://lightningaddress.com/))
 
 ### Ethereum
 Address for **Ethereum mainnet only**. Please do not send funds to this address on other networks.

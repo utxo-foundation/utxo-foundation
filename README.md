@@ -1,4 +1,4 @@
-## UTXO Foundation, z.s.
+# UTXO Foundation, z.s.
 
 We are a **non-profit** and **independent** association ("spolek" in Czech) [officially registered](#legal-info) under Czech Republic law.
 

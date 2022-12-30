@@ -7,6 +7,7 @@ Our target is to spread awareness about open and decentralised technologies and 
 ## Activities
 - [UTXO conference](https://utxo.cz)
 - [ETHBrno hackathon](https://ethbrno.cz)
+- [Prague Blockchain Week](https://prgblockweek.com/)
 
 ## Information
 - [Blockchain Accounts](#blockchain-accounts)

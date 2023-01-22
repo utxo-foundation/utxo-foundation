@@ -5,9 +5,10 @@ We are a **non-profit** and **independent** association ("spolek" in Czech) [off
 Our target is to spread awareness about open and decentralised technologies and connect people with similar interests.
 
 ## Activities
+- [Prague Blockchain Week](https://prgblockweek.com/) (PBW)
 - [UTXO conference](https://utxo.cz)
 - [ETHBrno hackathon](https://ethbrno.cz)
-- [Prague Blockchain Week](https://prgblockweek.com/)
+- [PrivacyETH conference](https://twitter.com/PrivacyETHconf)
 
 ## Information
 - [Blockchain Accounts](#blockchain-accounts)
@@ -103,7 +104,10 @@ Czech Republic
 ```
 
 ## Contact
+- Twitter: [@utxofoundation](https://twitter.com/utxofoundation)
+- Email: [info@utxo.foundation](mailto:info@utxo.foundation)
 
 ### Tereza Starostová (chairwoman)
 - [tereza@utxo.foundation](mailto:tereza@utxo.foundation)
 
+<script defer data-domain="utxo.foundation" src="https://x.gwei.cz/js/script.js"></script>

@@ -5,10 +5,17 @@ We are a **non-profit** and **independent** association ("spolek" in Czech) [off
 Our target is to spread awareness about open and decentralised technologies and connect people with similar interests.
 
 ## Activities
-- [Prague Blockchain Week](https://prgblockweek.com/) (PBW)
-- [UTXO conference](https://utxo.cz)
-- [ETHBrno hackathon](https://ethbrno.cz)
-- [PrivacyETH conference](https://twitter.com/PrivacyETHconf)
+
+### Initiatives
+- [Prague Blockchain Week](https://prgblockweek.com/) (PBW) @ Prague 🇨🇿 (June) - a decentralized gathering of people interested in cryptocurrencies and related topics
+
+### Conferences
+- [UTXO Prague](https://utxo.cz) @ Prague 🇨🇿 (June) - open community conference for a wide local audience
+- [PrivacyETH](https://twitter.com/PrivacyETHconf) @ Prague 🇨🇿 (June) - lunarpunk conference focused on Web3 privacy
+
+### Hackathons
+- [ETHBrno](https://ethbrno.cz) @ Brno 🇨🇿 (November) - lunarpunk hackathon focused on privacy and security
+- [EthereumZuri.ch](https://ethereumzuri.ch/) Hackathon (w/ [Duck Tape](https://www.paralelnipolis.cz/dtp/)) @ Zürich 🇨🇭 (April)
 
 ## Information
 - [Blockchain Accounts](#blockchain-accounts)

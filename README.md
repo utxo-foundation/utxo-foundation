@@ -7,15 +7,15 @@ Our target is to spread awareness about open and decentralised technologies and 
 ## Activities
 
 ### Initiatives
-- [Prague Blockchain Week](https://prgblockweek.com/) (PBW) @ Prague 🇨🇿 (June) - a decentralized gathering of people interested in cryptocurrencies and related topics
+- [Prague Blockchain Week](https://prgblockweek.com/) (PBW) 🇨🇿 (June) - a decentralized gathering of people interested in cryptocurrencies and related topics
 
 ### Conferences
-- [UTXO Prague](https://utxo.cz) @ Prague 🇨🇿 (June) - open community conference for a wide local audience
-- [PrivacyETH](https://twitter.com/PrivacyETHconf) @ Prague 🇨🇿 (June) - lunarpunk conference focused on Web3 privacy
+- [UTXO Prague](https://utxo.cz) 🇨🇿 (June) - open community conference for a wide local audience
+- [Web3Privacy Prague & Brno](https://prague.web3privacy.info) 🇨🇿 (June & November) - privacy conferences which complements [Web3Privacy](http://web3privacy.info/) research & community
 
 ### Hackathons
-- [ETHBrno](https://ethbrno.cz) @ Brno 🇨🇿 (November) - lunarpunk hackathon focused on privacy and security
-- [EthereumZuri.ch](https://ethereumzuri.ch/) Hackathon (w/ [Duck Tape](https://www.paralelnipolis.cz/dtp/)) @ Zürich 🇨🇭 (April)
+- [ETHBrno](https://ethbrno.cz) 🇨🇿 (November) - lunarpunk hackathon focused on privacy and security
+- [EthereumZuri.ch](https://ethereumzuri.ch/) Hackathon (w/ [Duck Tape](https://www.paralelnipolis.cz/dtp/)) 🇨🇭 (April)
 
 ## Information
 - [Blockchain Accounts](#blockchain-accounts)
